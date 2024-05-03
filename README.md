@@ -9,6 +9,7 @@
    python -m pip install matplotlib -U
 6. python -m pip install pandas -U
 7. python -m pip install sqlite -U
+   python -m pip install seaborn -U
 8. touch .gitignore
 9. echo "venv/" >> .gitignore
 10. git init
