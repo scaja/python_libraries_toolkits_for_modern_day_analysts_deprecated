@@ -10,6 +10,7 @@
 6. python -m pip install pandas -U
 7. python -m pip install sqlite -U
    python -m pip install seaborn -U
+   python -m pip install scikit-learn -U
 8. touch .gitignore
 9. echo "venv/" >> .gitignore
 10. git init
